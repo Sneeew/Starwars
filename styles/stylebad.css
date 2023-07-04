@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+.sectionbad h1 {
+    font-size: 3em;
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    width: 99.6%;
+}
+
+.sectionbad img {
+    width: 100%;
+}
+
+.sectionVideo{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+
+.sectionbad h2 {
+    font-size: 1.85em;
+    text-align: center;
+    position:absolute;
+    z-index: 1;
+    width: 99.6%;
+}
+
+.sectionbad h2 {
+    color: rgb(192, 2, 2)
+}
+
+.sectionbad p {
+    font-size: 1.5em;
+    margin-top: 15%;
+    text-align: center;
+    position:absolute;
+    z-index: 1;
+    width: 99.6%;
+}
+
+.sectionbad h3 {
+    font-size: 2em;
+    font-style: italic;
+    margin-top: 40%;
+    text-align: center;
+    position:absolute;
+    z-index: 1;
+    width: 99.6%;
+    color: whitesmoke;
+}
